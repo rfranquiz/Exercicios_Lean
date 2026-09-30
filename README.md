@@ -1,6 +1,10 @@
-# Introdução ao uso do Lean 4 e Verificação Formal de Provas
+# Mini-curso: Introdução à Verificação Formal de Demonstrações Matemáticas Usando Lean 4
 
-Este é um pequeno repositório que reúne informações relacionadas ao minicurso "Introdução ao Lean 4 e à Verificação Formal de Provas", tais como:
+## Resumo:
+
+Este minicurso introdutório apresenta o assistente de provas Lean 4 e a biblioteca Mathlib, mostrando o Lean tanto como linguagem de programação funcional quanto como ferramenta de verificação formal de demonstrações matemáticas. Ao longo dos nossos encontros, os participantes serão conduzidos da sintaxe básica e dos fundamentos lógicos do sistema — usando demonstrações de propriedades dos números naturais descritas segundo os axiomas de Peano — até a formalização de propriedades de espaços vetoriais e de convergência de sequências reais, com prática direta em jogos interativos de formalização.
+
+Este pequeno repositório que reúne informações relacionadas ao minicurso tais como:
 
  - Arquivos em formato .lean contendo os enunciados de algumas atividades básicas com os axiomas de Peano, para as práticas ao vivo durante a apresentação.
 
@@ -8,9 +12,9 @@ Este é um pequeno repositório que reúne informações relacionadas ao minicur
 
  - Manual de instalação do VS Code e do Lean 4.
 
- - Apostila "Primeiros passos na estrutura da programação funcional em Lean 4".
+ - Apostila "Introdução à programação funcional em Lean 4: Primeiros passos".
 
-
+ O curso utiliza o ambiente Lean Web, dispensando instalação local.
 
 ## Fontes
 
@@ -57,3 +61,6 @@ O Visual Studio Code (VS Code) é um editor de código-fonte gratuito e muito po
 
 Para os interessados, estamos deixando um manual básico de instalação disponível aqui.
 
+## Notas: `Introdução à programação funcional em Lean 4: Primeiros passos`
+
+Esta apostila é uma introdução à programação funcional em Lean 4, voltada para quem está tendo o primeiro contato com a linguagem. O material surgiu a partir das minhas anotações pessoais sobre o funcionamento do Lean 4 e da programação funcional.
