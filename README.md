@@ -22,6 +22,6 @@ https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Exer
 
 Substitua `NOME-DO-ARQUIVO.lean` pelo exercício desejado.
 
-#Exercícios e Atividades
+## Exercícios e Atividades
 
 Nesta seção podem encontrar os arquivos .lean contendo os enunciados dos exercícios ou atividades, e, em alguns casos as soluções
