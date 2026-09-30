@@ -1,10 +1,14 @@
-# Exercícios Lean 4
+# Introdução ao uso do Lean 4 e Verificação Formal de provas
 
-Exercícios simples para aprendizado básico de Lean 4.
+Este é um pequeno repositório onde podem encontrar informações relacionadas ao minicurso "Introdução ao Lean 4 e à Verificação Formal de Provas" tais como:
+  -Arquivos em formato .Lean contendo os enunciados de alguns exercícios básicos usando axiomas de Peano para práticas ao vivo junto com a apresentação prática.
+  -Arquivos em formato .Lean contendo os enunciados pequenos desafios (Atividades) para o público testar as habilidades adquiridas ao resolver as atividades.
+
+
 
 ## Fontes
 
-Este repositório contém exercícios derivados de:
+Os exercícios contidos neste repositório foram derivados de:
 
 - *Functional Programming in Lean* — David Thrane Christiansen  
   https://leanprover.github.io/functional_programming_in_lean/  
