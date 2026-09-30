@@ -1,4 +1,4 @@
-# Introdução ao uso do Lean 4 e Verificação Formal de provas
+# Introdução ao uso do Lean 4 e Verificação Formal de Provas
 
 Este é um pequeno repositório onde podem encontrar informações relacionadas ao minicurso "Introdução ao Lean 4 e à Verificação Formal de Provas" tais como:
   -Arquivos em formato .Lean contendo os enunciados de alguns exercícios básicos usando axiomas de Peano para práticas ao vivo junto com a apresentação prática.
