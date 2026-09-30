@@ -2,13 +2,13 @@
 
 Este é um pequeno repositório que reúne informações relacionadas ao minicurso "Introdução ao Lean 4 e à Verificação Formal de Provas", tais como:
 
-    -Arquivos em formato .lean contendo os enunciados de algumas atividades básicas com os axiomas de Peano, para as práticas ao vivo durante a apresentação.
+-Arquivos em formato .lean contendo os enunciados de algumas atividades básicas com os axiomas de Peano, para as práticas ao vivo durante a apresentação.
 
-    -Arquivos em formato .lean contendo os enunciados de pequenos desafios para que o público teste as habilidades adquiridas ao resolver as atividades.
+-Arquivos em formato .lean contendo os enunciados de pequenos desafios para que o público teste as habilidades adquiridas ao resolver as atividades.
 
-    -Manual de instalação do VS Code e do Lean 4.
+-Manual de instalação do VS Code e do Lean 4.
 
-    -Apostila "Primeiros passos na estrutura da programação funcional em Lean 4".
+-Apostila "Primeiros passos na estrutura da programação funcional em Lean 4".
 
 
 
