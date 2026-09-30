@@ -26,3 +26,8 @@ https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Exer
 
 Substitua `NOME-DO-ARQUIVO.lean` pelo exercício desejado.
 
+# Documentação
+
+## Manual de instalação do VS Code e uso do Lean no VS Code
+O Visual Studio Code (VS Code) é um editor de código-fonte gratuito, muito popular, criado pela Microsoft para sistemas Windows, macOS e Linux. A melhor forma de instalar e usar o Lean 4 é através do VS Code utilizando a extensão oficial de suporte ao provador de teoremas Lean 4 VS Code Extension. 
+
