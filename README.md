@@ -30,7 +30,7 @@ Cada arquivo .lean pode ser aberto diretamente no playground oficial. Escolha um
 
 Opção 1 — Via URL direta
 
-    Baixe o arquivo .lean da atividade ou desafio.
+\bullet Baixe o arquivo .lean da atividade ou desafio.
 
     Copie e cole o endereço abaixo, substituindo NOME-DO-ARQUIVO.lean pelo nome do arquivo desejado:
 
