@@ -2,13 +2,13 @@
 
 Este é um pequeno repositório que reúne informações relacionadas ao minicurso "Introdução ao Lean 4 e à Verificação Formal de Provas", tais como:
 
--Arquivos em formato .lean contendo os enunciados de algumas atividades básicas com os axiomas de Peano, para as práticas ao vivo durante a apresentação.
+ - Arquivos em formato .lean contendo os enunciados de algumas atividades básicas com os axiomas de Peano, para as práticas ao vivo durante a apresentação.
 
--Arquivos em formato .lean contendo os enunciados de pequenos desafios para que o público teste as habilidades adquiridas ao resolver as atividades.
+ - Arquivos em formato .lean contendo os enunciados de pequenos desafios para que o público teste as habilidades adquiridas ao resolver as atividades.
 
--Manual de instalação do VS Code e do Lean 4.
+ - Manual de instalação do VS Code e do Lean 4.
 
--Apostila "Primeiros passos na estrutura da programação funcional em Lean 4".
+ - Apostila "Primeiros passos na estrutura da programação funcional em Lean 4".
 
 
 
@@ -30,25 +30,25 @@ Cada arquivo .lean pode ser aberto diretamente no playground oficial. Escolha um
 
 Opção 1 — Via URL direta
 
-\bullet Baixe o arquivo .lean da atividade ou desafio.
+- Baixe o arquivo .lean da atividade ou desafio.
 
-    Copie e cole o endereço abaixo, substituindo NOME-DO-ARQUIVO.lean pelo nome do arquivo desejado:
+- Copie e cole o endereço abaixo, substituindo NOME-DO-ARQUIVO.lean pelo nome do arquivo desejado:
 
 https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Exercicios_Lean/main/NOME-DO-ARQUIVO.lean
 
 Opção 2 — Via upload
 
-    Acesse https://live.lean-lang.org/.
+ - Acesse https://live.lean-lang.org/.
 
-    No menu do canto superior direito, clique em upload e carregue o arquivo .lean correspondente.
+ - No menu do canto superior direito, clique em upload e carregue o arquivo .lean correspondente.
 
 Opção 3 — Via copiar e colar
 
-    Baixe o arquivo .lean da atividade ou desafio e abra-o como arquivo de texto.
+- Baixe o arquivo .lean da atividade ou desafio e abra-o como arquivo de texto.
 
-    Copie todo o conteúdo do arquivo.
+- Copie todo o conteúdo do arquivo.
 
-    Acesse https://live.lean-lang.org/ e cole o texto copiado.
+- Acesse https://live.lean-lang.org/ e cole o texto copiado.
 
 # Documentação
 
