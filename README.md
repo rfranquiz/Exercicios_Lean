@@ -32,7 +32,7 @@ Os exercícios contidos neste repositório foram derivados de:
 
 Cada arquivo `.lean pode ser aberto diretamente no playground oficial. Escolha uma das opções abaixo:
 
-### Opção 1: Uso no Lean Web (Recomendado)
+### Opção 1: Uso no Lean Web (Mais rápida)
 1. Clique no link do arquivo `.lean` desejado na tabela abaixo.
 2. Copie o código contido no arquivo.
 3. Acesse o [Lean Web](https://live.lean-lang.org/) e cole o código na janela de edição para resolver as demonstrações.
