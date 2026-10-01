@@ -38,7 +38,7 @@ Opção 1 — Via URL direta
 
 - Copie e cole o endereço abaixo, substituindo NOME-DO-ARQUIVO.lean pelo nome do arquivo desejado:
 
-https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Exercicios_Lean/main/NOME-DO-ARQUIVO.lean
+https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/NOME-DO-ARQUIVO.lean
 
 Opção 2 — Via upload
 
