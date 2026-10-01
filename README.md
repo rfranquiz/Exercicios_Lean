@@ -91,3 +91,27 @@ Você pode visualizar ou baixar os arquivos em Lean 4 diretamente nos links abai
 | 02 | Sucessor de um Número | [📄 ex_2_suc_num.lean](exercicios_e_atividades/exercicios/ex_2_suc_num.lean) |
 | 03 | Zero e Soma | [📄 ex_3_zero_soma.lean](exercicios_e_atividades/exercicios/ex_3_zero_soma.lean) |
 | 04 | Sucessor da Adição | [📄 ex_4_suc_adicao.lean](exercicios_e_atividades/exercicios/ex_4_suc_adicao.lean) |org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_4_suc_adicao.lean) |
+
+---
+
+## 🔬 Projeto de Inovação e Apoio Institucional
+
+Este minicurso e seus materiais são executados por docentes do **Departamento de Matemática e Matemática Aplicada (DMM)** e técnicos/servidores do **Instituto de Ciências Exatas (ICET)**, fazendo parte do projeto de pesquisa e inovação financiado pela **Universidade Federal de Lavras (UFLA)**:
+
+> **Título do Projeto:** *Integração entre IA e Assistentes de Prova para Inovação na Pesquisa Matemática e em Processos Organizacionais*
+> 
+> **Objetivo:** Implementar o assistente de prova Lean como solução inovadora na pesquisa matemática, aplicando-o na verificação formal de provas. Além disso, Propomos uma abordagem inovadora, aplicar o Lean na análise lógica de procedimentos e processos organizacionais da UFLA, estabelecendo um piloto institucional para qualificação de seus fluxos e estruturas operacionais.
+> 
+> **Situação:** Em andamento \| **Natureza:** Pesquisa
+
+### 👥 Equipe do Projeto
+* **Coordenador:** Prof. Dr. Ricardo Joel Franquiz Flores
+* **Integrantes:** 
+  * Profa. Dra. Ana Carolina Dias do Amaral Ramos
+  * Tec-Adm. Alan Gabriel Fernandes
+  * Prof. Dr. Helvecio Geovani Fargnoli Filho
+  * Prof. Dr. Marlon Pimenta Fonseca
+  * Profa. Dra. Thais Presses Mendes
+* **Alunos de Graduação Envolvidos:**
+   * Luiz Gustavo Silva Prata
+   *Guilherme Augusto de Souza Candinho
