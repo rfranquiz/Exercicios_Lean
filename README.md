@@ -114,4 +114,5 @@ Este minicurso e seus materiais são executados por docentes do **Departamento d
   * Profa. Dra. Thais Presses Mendes
 * **Alunos de Graduação Envolvidos:**
    * Luiz Gustavo Silva Prata
+     
    *Guilherme Augusto de Souza Candinho
