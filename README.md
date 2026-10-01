@@ -37,7 +37,7 @@ Cada arquivo `.lean pode ser aberto diretamente no playground oficial. Escolha u
 2. Copie o código contido no arquivo.
 3. Acesse o [Lean Web](https://live.lean-lang.org/) e cole o código na janela de edição para resolver as demonstrações.
 
-### Opção 2: Uso Local no Lean Web (Upload)
+### Opção 2: Uso no Lean Web (Upload)
 1. Faça o download ou clone este repositório no seu computador.
 2. No menu do canto superior direito, clique em upload e carregue o arquivo .lean correspondente.
 
