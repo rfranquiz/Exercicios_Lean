@@ -16,7 +16,7 @@ Este pequeno repositório que reúne informações relacionadas ao minicurso tai
 
  O curso utiliza o ambiente Lean Web, dispensando instalação local.
 
-## Fontes
+## 📖  Fontes
 
 Os exercícios contidos neste repositório foram derivados de:
 
@@ -28,7 +28,7 @@ Os exercícios contidos neste repositório foram derivados de:
   https://github.com/leanprover-community/NNG4  
   Licença: Apache 2.0
 
-## Como usar
+## ⚙️ Como usar
 
 Cada arquivo .lean pode ser aberto diretamente no playground oficial. Escolha uma das opções abaixo:
 
@@ -54,13 +54,43 @@ Opção 3 — Via copiar e colar
 
 - Acesse https://live.lean-lang.org/ e cole o texto copiado.
 
-# Documentação
+## 📚 Materiais do Curso
 
-## Manual de instalação do VS Code e uso do Lean no VS Code
-O Visual Studio Code (VS Code) é um editor de código-fonte gratuito e muito popular, criado pela Microsoft para Windows, macOS e Linux. A melhor forma de instalar e usar o Lean 4 é através do VS Code, utilizando a extensão oficial Lean 4.
+### 📂 Apostilas e Manuais
+* 📖 **Apostila de Programação Funcional:** [Ver na pasta `documentos/`](documentos/programacao_funcional_lean_notas-2.pdf)
+Notas: `Introdução à programação funcional em Lean 4: Primeiros passos`
+
+Esta apostila é uma introdução à programação funcional em Lean 4, voltada para quem está tendo o primeiro contato com a linguagem. O material surgiu a partir das minhas anotações pessoais sobre o funcionamento do Lean 4 e da programação funcional.
+
+* ⚙️ **Manual de Instalação (VS Code + Lean 4):** [Ver na pasta `instalacao/`](instalacao/Manual_instalcao_VS_Code_LEAN4.pdf)
+  O Visual Studio Code (VS Code) é um editor de código-fonte gratuito e muito popular, criado pela Microsoft para Windows, macOS e Linux. A melhor forma de instalar e usar o Lean 4 é através do VS Code, utilizando a extensão oficial Lean 4.
 
 Para os interessados, estamos deixando um manual básico de instalação disponível aqui.
 
-## Notas: `Introdução à programação funcional em Lean 4: Primeiros passos`
+---
+## 🎯 Práticas e Exercícios no Lean Web
 
-Esta apostila é uma introdução à programação funcional em Lean 4, voltada para quem está tendo o primeiro contato com a linguagem. O material surgiu a partir das minhas anotações pessoais sobre o funcionamento do Lean 4 e da programação funcional.
+Antes de iniciar, você pode testar o tempo de resposta e o desempenho do Lean Web no seu navegador:
+* ⚡ **[Teste de Desempenho / Conexão](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/00_teste_desempenho.lean)**
+
+---
+
+### 📝 Práticas ao Vivo (Atividades)
+
+| # | Atividade | Acesso Direto |
+| :-: | :--- | :-: |
+| 01 | Comutatividade da Adição | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/atividades/ativ_1_comuta_adicao.lean) |
+| 02 | Associatividade da Soma | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/atividades/ativ_2_Assoc_soma.lean) |
+| 03 | Distributividade | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/atividades/ativ_3_distributividade.lean) |
+| 04 | Soma de Ímpares | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/atividades/ativ_4_Soma_impares_igual_par.lean) |
+
+---
+
+### 🧠 Desafios (Exercícios)
+
+| # | Exercício | Acesso Direto |
+| :-: | :--- | :-: |
+| 01 | Dois mais dois é igual a quatro | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_1_dois_mais_dois_igual_quatro.lean) |
+| 02 | Sucessor de um Número | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_2_suc_num.lean) |
+| 03 | Zero e Soma | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_3_zero_soma.lean) |
+| 04 | Sucessor da Adição | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_4_suc_adicao.lean) |
