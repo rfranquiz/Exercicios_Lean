@@ -1,4 +1,6 @@
-# Mini-curso: Introdução à Verificação Formal de Demonstrações Matemáticas Usando Lean 4
+# 🎓 Mini-curso: Introdução à Verificação Formal de Demonstrações Matemáticas Usando Lean 4
+
+Bem-vindo ao repositório oficial do **Mini-curso de Introdução à Verificação Formal de Demonstrações Matemáticas Usando Lean 4**. Este material foi preparado para o ensino da verificação formal de provas usando Lean 4.
 
 ## Resumo:
 
@@ -16,30 +18,21 @@ Este pequeno repositório que reúne informações relacionadas ao minicurso tai
 
  O curso utiliza o ambiente Lean Web, dispensando instalação local.
 
-## 📖  Fontes
+
+---
+
+## 📜 Licença e Direitos de Autor
+
+Este projeto é distribuído sob a licença [Apache 2.0](LICENSE)[cite: 2, 4].
+
+**Referências do Conteúdo:**
 
 Os exercícios contidos neste repositório foram derivados de:
 
-- *Functional Programming in Lean* — David Thrane Christiansen  
-  https://leanprover.github.io/functional_programming_in_lean/  
-  Licença: CC BY 4.0
+* *Functional Programming in Lean* — David Thrane Christiansen ([CC BY 4.0](https://leanprover.github.io/functional_programming_in_lean/))
+* *Natural Number Game (NNG4)* — Lean Community ([Apache 2.0](https://github.com/leanprover-community/NNG4))[cite: 4]
 
-- *Natural Number Game* (NNG4)  
-  https://github.com/leanprover-community/NNG4  
-  Licença: Apache 2.0
-
-## ⚙️ 🚀 Como usar
-
-Cada arquivo `.lean pode ser aberto diretamente no playground oficial. Escolha uma das opções abaixo:
-
-### Opção 1: Uso no Lean Web (Mais rápida)
-1. Clique no link do arquivo `.lean` desejado na tabela abaixo.
-2. Copie o código contido no arquivo.
-3. Acesse o [Lean Web](https://live.lean-lang.org/) e cole o código na janela de edição para resolver as demonstrações.
-
-### Opção 2: Uso no Lean Web (Upload)
-1. Faça o download ou clone este repositório no seu computador.
-2. No menu do canto superior direito, clique em upload e carregue o arquivo .lean correspondente.
+---
 
 ## 📚 Materiais do Curso
 
@@ -49,12 +42,30 @@ Notas: `Introdução à programação funcional em Lean 4: Primeiros passos`
 
 Esta apostila é uma introdução à programação funcional em Lean 4, voltada para quem está tendo o primeiro contato com a linguagem. O material surgiu a partir das minhas anotações pessoais sobre o funcionamento do Lean 4 e da programação funcional.
 
+---
+
 * ⚙️ **Manual de Instalação (VS Code + Lean 4):** [Ver na pasta `instalacao/`](instalacao/Manual_instalcao_VS_Code_LEAN4.pdf)
   O Visual Studio Code (VS Code) é um editor de código-fonte gratuito e muito popular, criado pela Microsoft para Windows, macOS e Linux. A melhor forma de instalar e usar o Lean 4 é através do VS Code, utilizando a extensão oficial Lean 4.
 
 Para os interessados, estamos deixando um manual básico de instalação disponível aqui.
 
+## ⚙️ 🚀 Como usar
+
+O minicurso é realizado **presencialmente** com práticas ao vivo no **Lean Web Editor**[cite: 4]. Escolha a forma de acesso mais prática:
+
+Cada arquivo `.lean` pode ser aberto diretamente no playground oficial. Escolha uma das opções abaixo:
+
+### Opção 1: Uso no Lean Web (Mais rápida)
+1. Clique no link do arquivo `.lean` desejado na tabela abaixo.
+2. Copie o código contido no arquivo.
+3. Acesse o [Lean Web](https://live.lean-lang.org/) e cole o código na janela de edição para resolver as demonstrações.
+
+### Opção 2: Uso no Lean Web (Upload)
+1. Faça o download ou clone este repositório no seu computador.
+2. No menu do canto superior direito, clique em upload e carregue o arquivo .lean correspondente.
+   
 ---
+
 ## 🎯 Práticas e Exercícios no Lean Web
 
 Você pode visualizar ou baixar os arquivos em Lean 4 diretamente nos links abaixo:
