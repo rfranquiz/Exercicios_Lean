@@ -28,31 +28,18 @@ Os exercícios contidos neste repositório foram derivados de:
   https://github.com/leanprover-community/NNG4  
   Licença: Apache 2.0
 
-## ⚙️ Como usar
+## ⚙️ 🚀 Como usar
 
-Cada arquivo .lean pode ser aberto diretamente no playground oficial. Escolha uma das opções abaixo:
+Cada arquivo `.lean pode ser aberto diretamente no playground oficial. Escolha uma das opções abaixo:
 
-Opção 1 — Via URL direta
+### Opção 1: Uso no Lean Web (Navegador)
+1. Clique no link do arquivo `.lean` desejado na tabela abaixo.
+2. Copie o código contido no arquivo.
+3. Acesse o [Lean Web](https://live.lean-lang.org/) e cole o código na janela de edição para resolver as demonstrações.
 
-- Baixe o arquivo .lean da atividade ou desafio.
-
-- Copie e cole o endereço abaixo, substituindo NOME-DO-ARQUIVO.lean pelo nome do arquivo desejado:
-
-https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/NOME-DO-ARQUIVO.lean
-
-Opção 2 — Via upload
-
- - Acesse https://live.lean-lang.org/.
-
- - No menu do canto superior direito, clique em upload e carregue o arquivo .lean correspondente.
-
-Opção 3 — Via copiar e colar
-
-- Baixe o arquivo .lean da atividade ou desafio e abra-o como arquivo de texto.
-
-- Copie todo o conteúdo do arquivo.
-
-- Acesse https://live.lean-lang.org/ e cole o texto copiado.
+### Opção 2: Uso Local no VS Code (Recomendado)
+1. Faça o download ou clone este repositório no seu computador.
+2. No menu do canto superior direito, clique em upload e carregue o arquivo .lean correspondente.
 
 ## 📚 Materiais do Curso
 
