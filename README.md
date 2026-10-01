@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório oficial do **Mini-curso de Introdução à Verificação Formal de Demonstrações Matemáticas Usando Lean 4**. Este material foi preparado para o ensino da verificação formal de provas usando Lean 4.
 
+O minicurso é realizado **presencialmente** com práticas ao vivo no **Lean Web Editor**(https://live.lean-lang.org/). 
+
 ## Resumo:
 
 Este minicurso introdutório apresenta o assistente de provas Lean 4 e a biblioteca Mathlib, mostrando o Lean tanto como linguagem de programação funcional quanto como ferramenta de verificação formal de demonstrações matemáticas. Ao longo dos nossos encontros, os participantes serão conduzidos da sintaxe básica e dos fundamentos lógicos do sistema — usando demonstrações de propriedades dos números naturais descritas segundo os axiomas de Peano — até a formalização de propriedades de espaços vetoriais e de convergência de sequências reais, com prática direta em jogos interativos de formalização.
@@ -51,7 +53,6 @@ Para os interessados, estamos deixando um manual básico de instalação dispon�
 
 ## ⚙️ 🚀 Como usar
 
-O minicurso é realizado **presencialmente** com práticas ao vivo no **Lean Web Editor**[cite: 4]. Escolha a forma de acesso mais prática:
 
 Cada arquivo `.lean` pode ser aberto diretamente no playground oficial. Escolha uma das opções abaixo:
 
