@@ -70,27 +70,25 @@ Para os interessados, estamos deixando um manual básico de instalação dispon�
 ---
 ## 🎯 Práticas e Exercícios no Lean Web
 
-Antes de iniciar, você pode testar o tempo de resposta e o desempenho do Lean Web no seu navegador:
-* ⚡ **[Teste de Desempenho / Conexão](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/00_teste_desempenho.lean)**
-
----
+Você pode visualizar ou baixar os arquivos em Lean 4 diretamente nos links abaixo:
 
 ### 📝 Práticas ao Vivo (Atividades)
 
-| # | Atividade | Acesso Direto |
+| # | Atividade | Arquivo no GitHub |
 | :-: | :--- | :-: |
-| 01 | Comutatividade da Adição | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/atividades/ativ_1_comuta_adicao.lean) |
-| 02 | Associatividade da Soma | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/atividades/ativ_2_Assoc_soma.lean) |
-| 03 | Distributividade | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/atividades/ativ_3_distributividade.lean) |
-| 04 | Soma de Ímpares | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/atividades/ativ_4_Soma_impares_igual_par.lean) |
+| 01 | Comutatividade da Adição | [📄 ativ_1_comuta_adicao.lean](exercicios_e_atividades/atividades/ativ_1_comuta_adicao.lean) |
+| 02 | Associatividade da Soma | [📄 ativ_2_Assoc_soma.lean](exercicios_e_atividades/atividades/ativ_2_Assoc_soma.lean) |
+| 03 | Distributividade | [📄 ativ_3_distributividade.lean](exercicios_e_atividades/atividades/ativ_3_distributividade.lean) |
+| 04 | Soma de Ímpares | [📄 ativ_4_Soma_impares_igual_par.lean](exercicios_e_atividades/atividades/ativ_4_Soma_impares_igual_par.lean) |
 
 ---
 
 ### 🧠 Desafios (Exercícios)
 
-| # | Exercício | Acesso Direto |
+| # | Exercício | Arquivo no GitHub |
 | :-: | :--- | :-: |
-| 01 | Dois mais dois é igual a quatro | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_1_dois_mais_dois_igual_quatro.lean) |
-| 02 | Sucessor de um Número | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_2_suc_num.lean) |
-| 03 | Zero e Soma | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_3_zero_soma.lean) |
-| 04 | Sucessor da Adição | [🚀 Abrir no Lean Web](https://live.lean-lang.org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_4_suc_adicao.lean) |
+| 00 | Teste de Desempenho / Conexão | [📄 00_teste_desempenho.lean](exercicios_e_atividades/exercicios/00_teste_desempenho.lean) |
+| 01 | Dois mais dois é igual a quatro | [📄 ex_1_dois_mais_dois_igual_quatro.lean](exercicios_e_atividades/exercicios/ex_1_dois_mais_dois_igual_quatro.lean) |
+| 02 | Sucessor de um Número | [📄 ex_2_suc_num.lean](exercicios_e_atividades/exercicios/ex_2_suc_num.lean) |
+| 03 | Zero e Soma | [📄 ex_3_zero_soma.lean](exercicios_e_atividades/exercicios/ex_3_zero_soma.lean) |
+| 04 | Sucessor da Adição | [📄 ex_4_suc_adicao.lean](exercicios_e_atividades/exercicios/ex_4_suc_adicao.lean) |org/?url=https://raw.githubusercontent.com/rfranquiz/Mini-curso_Lean_UFLA_2026/main/exercicios_e_atividades/exercicios/ex_4_suc_adicao.lean) |
